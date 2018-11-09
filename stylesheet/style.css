@@ -1,0 +1,23 @@
+body {
+	background-color: grey;
+	font-family: sans-serif;
+	color: navy;
+
+}
+
+h1 {
+	font-weight: bold;
+}
+
+#button {color: black;
+font-weight: bold;}
+
+ul {
+	text-align: center;
+	list-style-type: square;
+
+
+}
+
+li:hover {background-color: white;
+font-weight: 700;}
